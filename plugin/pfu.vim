@@ -12,7 +12,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 if exists(':OpenBrowser') ==# 2
-    OpenBrowser http://iccf-holland.org/
+    OpenBrowser https://iccf-holland.org/
 else
     help iccf
     only!
